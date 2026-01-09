@@ -1,17 +1,15 @@
-{
-  "Plugins": [
-    {
-      "Name": "XIVKeyboard",
-      "Author": "αCentauri",
-      "Description": "An on-screen virtual keyboard designed for controller users in FFXIV.",
-      "InternalName": "XIVKeyboard",
-      "AssemblyVersion": "0.0.1.0",
-      "TestingAssemblyVersion": "0.0.1.0",
-      "RepoUrl": "https://github.com/alpha-Centauri85/XIV_keyboard",
-      "ApplicableVersion": "any",
-      "DalamudApiLevel": 10,
-      "DownloadLinkInstall": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/v0.0.1/XIVKeyboard.dll",
-      "DownloadLinkTesting": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/v0.0.1/XIVKeyboard.dll"
-    }
-  ]
-}
+[
+  {
+    "Name": "XIVKeyboard",
+    "Author": "αCentauri",
+    "Description": "An on-screen virtual keyboard designed for controller users in FFXIV.",
+    "InternalName": "XIVKeyboard",
+    "AssemblyVersion": "0.0.1.0",
+    "TestingAssemblyVersion": "0.0.1.0",
+    "RepoUrl": "https://github.com/alpha-Centauri85/XIV_keyboard",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "DownloadLinkInstall": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/v0.0.1/XIVKeyboard.dll",
+    "DownloadLinkTesting": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/v0.0.1/XIVKeyboard.dll"
+  }
+]
