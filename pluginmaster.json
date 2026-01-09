@@ -10,8 +10,8 @@
       "RepoUrl": "https://github.com/alpha-Centauri85/XIV_keyboard",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 10,
-      "DownloadLinkInstall": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/0.0.1/XIVKeyboard.dll",
-      "DownloadLinkTesting": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/0.0.1/XIVKeyboard.dll"
+      "DownloadLinkInstall": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/v0.0.1/XIVKeyboard.dll",
+      "DownloadLinkTesting": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/v0.0.1/XIVKeyboard.dll"
     }
   ]
 }
