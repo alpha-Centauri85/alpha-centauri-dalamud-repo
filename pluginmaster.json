@@ -5,7 +5,7 @@
     "Description": "An on-screen virtual keyboard designed for controller users in FFXIV.",
     "Punchline": "On-screen keyboard for controller input.",
     "InternalName": "XIVKeyboard",
-    "AssemblyVersion": "0.0.1.0",
+    "AssemblyVersion": "0.0.2.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/alpha-Centauri85/XIV_keyboard",
     "ApplicableVersion": "any",
