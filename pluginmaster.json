@@ -9,10 +9,11 @@
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/alpha-Centauri85/XIV_keyboard",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 14,
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/0.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/alpha-Centauri85/XIV_keyboard/releases/download/0.0.2/latest.zip"
+    "IconUrl": "https://raw.githubusercontent.com/XIV_keyboard/blob/main/assets/icon.png"
   }
 ]
